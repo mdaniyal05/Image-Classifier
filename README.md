@@ -1,2 +1,3 @@
-# AI-News-Aggregator
-AI News Aggregator.
+# Image Classifier
+
+Image Classifier.
